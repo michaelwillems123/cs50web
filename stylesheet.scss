@@ -1,0 +1,80 @@
+#img
+{
+  display: block;
+  width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#advanced-img
+{
+  width: 100%;
+  padding: 5px;
+}
+
+#advanced-img > img
+{
+  width: 100px;
+  height: auto;
+  padding: 10px;
+}
+
+label
+{
+   width: 250px;
+}
+
+#advanced
+{
+  width: 400px;
+}
+
+a
+{
+  float: right;
+  padding: 15px;
+  font-size: 18px;
+  text-decoration: none;
+  color: blue;
+}
+
+#search
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 550px;
+  height: 35px;
+  border-radius: 50px;
+  font-size: 18px;
+}
+
+#advanced-sub
+{
+  color: white;
+  background-color: blue;
+}
+
+#submit
+{
+  padding: 10px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+#group
+{
+  padding: 10px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
